@@ -1,0 +1,14 @@
+{
+  "name": "day-0",
+  "version": "1.0.0",
+  "description": "Create a simple portfolio site. Static.",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "parcel -p 1234 watch src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
